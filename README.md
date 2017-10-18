@@ -1,4 +1,4 @@
-
+This is the KnowFlow classic version added IoT module, not very stable. You should use a Arduino Mega board instead of uno, so it won't crash.
 
 # KnowFlow - an open source river quality meter with Arduino
 
